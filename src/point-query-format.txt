@@ -1,0 +1,10 @@
+select * from sales where sale_num = x
+select unit_price, unit_cost, total_revenue where sale_num = x
+select country, item_type from sales where sale_num = x
+select order_id from sales where sale_num = x
+select units_sold, unit_cost where sale_num = x
+select order_priority from sales where sale_num = x
+select total_revenue from sales where sale_num = x
+select unit_cost from sales where sale_num = x
+select order_id, unit_cost from sales where sale_num = x
+select item_type, total_revenue from sales where sale_num = x

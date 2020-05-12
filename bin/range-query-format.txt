@@ -1,0 +1,5 @@
+select country, item_type from sales where sale_num between x and y
+select unit_sold, total_revenue from sales where sale_num between x and y
+select item_type, order_priority from sales where sale_num between x and y
+select order_id, total_revenue from sales where sale_num between x and y
+select * from sales where sale_num between x and y

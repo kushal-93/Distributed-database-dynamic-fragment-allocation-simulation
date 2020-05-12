@@ -1,0 +1,50 @@
+select country, item_type from sales where sale_num between 147 and 403
+select country, item_type from sales where sale_num between 610 and 887
+select country, item_type from sales where sale_num between 558 and 950
+select country, item_type from sales where sale_num between 561 and 680
+select country, item_type from sales where sale_num between 151 and 832
+select country, item_type from sales where sale_num between 196 and 575
+select country, item_type from sales where sale_num between 805 and 911
+select country, item_type from sales where sale_num between 43 and 47
+select country, item_type from sales where sale_num between 157 and 231
+select country, item_type from sales where sale_num between 310 and 511
+select unit_sold, total_revenue from sales where sale_num between 938 and 961
+select unit_sold, total_revenue from sales where sale_num between 331 and 470
+select unit_sold, total_revenue from sales where sale_num between 431 and 945
+select unit_sold, total_revenue from sales where sale_num between 200 and 481
+select unit_sold, total_revenue from sales where sale_num between 576 and 956
+select unit_sold, total_revenue from sales where sale_num between 897 and 927
+select unit_sold, total_revenue from sales where sale_num between 663 and 924
+select unit_sold, total_revenue from sales where sale_num between 729 and 790
+select unit_sold, total_revenue from sales where sale_num between 110 and 706
+select unit_sold, total_revenue from sales where sale_num between 652 and 734
+select item_type, order_priority from sales where sale_num between 109 and 782
+select item_type, order_priority from sales where sale_num between 433 and 638
+select item_type, order_priority from sales where sale_num between 494 and 830
+select item_type, order_priority from sales where sale_num between 152 and 218
+select item_type, order_priority from sales where sale_num between 221 and 794
+select item_type, order_priority from sales where sale_num between 267 and 994
+select item_type, order_priority from sales where sale_num between 631 and 801
+select item_type, order_priority from sales where sale_num between 951 and 953
+select item_type, order_priority from sales where sale_num between 26 and 352
+select item_type, order_priority from sales where sale_num between 877 and 905
+select order_id, total_revenue from sales where sale_num between 561 and 956
+select order_id, total_revenue from sales where sale_num between 760 and 834
+select order_id, total_revenue from sales where sale_num between 947 and 969
+select order_id, total_revenue from sales where sale_num between 696 and 949
+select order_id, total_revenue from sales where sale_num between 606 and 663
+select order_id, total_revenue from sales where sale_num between 790 and 982
+select order_id, total_revenue from sales where sale_num between 596 and 862
+select order_id, total_revenue from sales where sale_num between 539 and 998
+select order_id, total_revenue from sales where sale_num between 543 and 593
+select order_id, total_revenue from sales where sale_num between 921 and 925
+select * from sales where sale_num between 2 and 237
+select * from sales where sale_num between 305 and 433
+select * from sales where sale_num between 81 and 521
+select * from sales where sale_num between 85 and 279
+select * from sales where sale_num between 931 and 938
+select * from sales where sale_num between 909 and 993
+select * from sales where sale_num between 414 and 913
+select * from sales where sale_num between 904 and 969
+select * from sales where sale_num between 876 and 953
+select * from sales where sale_num between 362 and 367
